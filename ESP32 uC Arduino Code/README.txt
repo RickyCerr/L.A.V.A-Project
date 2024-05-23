@@ -10,4 +10,5 @@ Need the following:
 
 4. Arduino IDE 
   - Board Manager: esp32 by Espressif Systems
+      - In the "Board:" dropdown menu, select: "ESP32 Dev Module"
   - Libraries: arduinoFFT v1.62 by Enrique Condes, version 1.62 is highly important
